@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 128 128">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #36f;
+      }
+
+      .st1 {
+        fill: #69f;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="25.37" cy="18.2" r="5"/>
+  <circle class="st0" cx="25.37" cy="32.93" r="5"/>
+  <circle class="st1" cx="25.37" cy="47.65" r="5"/>
+</svg>
